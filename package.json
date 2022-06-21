@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "cypress.config.js",
   "devDependencies": {
-    "cypress": "^10.1.0"
+    "cypress": "^3.8.3"
   },
   "scripts": {
     "test:open": "cypress open"
